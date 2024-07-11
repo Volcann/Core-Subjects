@@ -1,5 +1,3 @@
-Here's a detailed and engaging description for your repository:
-
 ---
 
 # 📚 Core-Subjects
@@ -44,5 +42,3 @@ Welcome to the **Core-Subjects** repository! This repo is a comprehensive collec
 Feel free to explore, learn, and contribute! Let's master the core subjects of computer science together. 🎓
 
 ---
-
-I hope this description helps showcase the valuable content in your repository!
