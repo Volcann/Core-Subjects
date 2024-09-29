@@ -35,7 +35,7 @@ Welcome to the **Core-Subjects** repository! This repo is a comprehensive collec
 - **Organized**: Files are neatly organized by topic, making it easy to find and focus on specific areas.
 
 ## 🚀 Get Started
-1. Clone the repo: `git clone https://github.com/Volcann/Core-Subjects.git](https://github.com/Volcann/Core-Subjects.git`
+1. Clone the repo: `https://github.com/Volcann/Core-Subjects.git`
 2. Navigate to the desired topic directory.
 3. Start practicing and enhancing your skills!
 
